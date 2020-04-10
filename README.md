@@ -1,4 +1,4 @@
-This is the mechanization of the semantics presented in "Decoding Lua: Formal Semantics for the Developer and the Semanticist".
+This is the mechanization of the semantics presented in "Decoding Lua: Formal Semantics for the Developer and the Semanticist". For the updated model, extended with garbage collection, please look for the repo [lua-gc-redex-model](https://github.com/Mallku2/lua-gc-redex-model).
 
 1. Installation of DrRacket
 
